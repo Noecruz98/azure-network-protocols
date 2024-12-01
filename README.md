@@ -1,5 +1,10 @@
 # azure-network-protocols
 
+<p align="center">
+<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+</p>
+
+
 # Azure Network Protocols for Windows
 
 This guide provides an overview and configuration steps for network protocols in Azure for Windows-based virtual machines.
